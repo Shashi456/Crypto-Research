@@ -30,3 +30,4 @@ and anyone who's done research know that it never stops at one question, so its 
   - Example: CFMMs + Orderbooks, This cant work out so analogously because there are trade offs to doing this.
     - Blockchains have liveness failure sometimes. 
     - After a liveness failure occurs, to align the price of a CFMM to that a global market needs which might require a variety of different transactions. 
+-
